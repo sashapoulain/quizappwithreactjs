@@ -11,8 +11,7 @@ const Quiz = () => {
    let Option2 = useRef(null)
    let Option3 = useRef(null)
    let Option4 = useRef(null)
-
-
+console.log(lock)
    let optionArr = [Option1, Option2, Option3, Option4]
 
 
